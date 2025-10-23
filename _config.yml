@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ATLAS_Headshot.jpg"
   name             : "Luke Vaughan"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Experimental High Energy Physics with skills in ML and Computing."
